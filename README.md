@@ -17,5 +17,5 @@ This repo contains me and my team's implementations on machine learning field of
 ### Optimization Algorithm
 * **Gradient Descent [FINISHED](https://github.com/farhanr/ml-implementations/blob/master/optimization/gradient-descent/gradient_descent.ipynb)** - implementation of gradient descent optimization with random-generated numeric dataset.
 
-## Credit
+## Contributor
 Me, [arizky012](https://github.com/arizky012), [naimn2](https://github.com/naimn2). Hasanuddin University Department of Computer Science
