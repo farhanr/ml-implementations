@@ -10,6 +10,7 @@ This repo contains me and my team's implementations on machine learning field of
 
 ### Regression Algorithm
 * **Multiple Linear Regression - on CO2 Emission Dataset [FINISHED]** - finished with mean absolute error (MSE) percentage of 14.03%.
+* **Multiple Linear Regression - on Spambase Dataset [FINISHED]** - got 89% accuracy on predicting spam.
 
 ### Clustering Algorithm
 * **KModes Clustering - on Agaricus Lepiota Dataset [FINISHED]** - Successfully clustered into three clusters.
