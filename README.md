@@ -17,3 +17,4 @@ This repo contains me and my team's implementations on machine learning field of
 * **Gradient Descent [FINISHED]** - implementation of gradient descent optimization with random-generated numeric dataset.
 
 ## Credit
+Me, [arizky012](https://github.com/arizky012), [naimn2](https://github.com/naimn2). Hasanuddin University Department of Computer Science
